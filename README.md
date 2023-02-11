@@ -13,7 +13,7 @@
     <br />
     <br />
     <a href="https://mydonateiom.vercel.app/">View App</a> |
-    <a href="https://www.youtube.com/watch?v=rP8760wDGvw&t=19s">Watch Video</a>
+    <a href="https://www.youtube.com/watch?v=t4FOTFMX0Sc">Watch Video</a>
 
   </p>
 </div>
