@@ -1,8 +1,6 @@
-
-
 <br />
 <div align="center">
-  <a href="https://mydonate2.vercel.app/">
+  <a href="https://mydonateiom.vercel.app/">
     <img src="public/images/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -11,10 +9,10 @@
   <p align="center">
    A web3 transparent donation application 
     <br />
-    <a href="https://mydonate2.vercel.app/"><strong>Explore the docs »</strong></a>
+    <a href="https://mydonateiom.vercel.app/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://mydonate2.vercel.app/">View App</a> |
+    <a href="https://mydonateiom.vercel.app/">View App</a> |
     <a href="https://www.youtube.com/watch?v=rP8760wDGvw&t=19s">Watch Video</a>
 
   </p>
@@ -120,8 +118,6 @@ npm run dev
 
 The chain ID should be 80001. If you have a localhost rpc set up, you may need to overwrite it.
 
-![MetaMask RPC Import](public/images/testnet.png)
-
 To deploy to Polygon test or main networks, update the configurations located in **hardhat.config.js** to use a private key and, optionally, deploy to a private RPC like Infura.
 
 ```javascript
@@ -137,11 +133,11 @@ module.exports = {
   defaultNetwork: 'hardhat',
   networks: {
     hardhat: {
-      chainId: 1337,
+      chainId: 5001,
       allowUnlimitedContractSize: true,
     },
-    matic: {
-      url: 'https://polygon-mumbai.g.alchemy.com/v2/2bGIFu-iEnl9RvAOTe1ddZI2gBnuYQGS',
+    mantel: {
+      url: 'https://rpc.testnet.mantle.xyz',
       accounts: [privateKey],
     },
   },
@@ -194,8 +190,6 @@ Mends Albert - [@mendsalbert](https://twitter.com/mendalbert) - mendsalbert@gmai
 
 Brilliant Kwakye - [@a_moah\_\_](https://twitter.com/mendalbert)
 
-Daniel Sarkodie - [@AbrantepaSark](https://twitter.com/mendalbert)
-
 Project Link: [https://github.com/mendsalbert/mydonate2](https://github.com/mendsalbert/mydonate2)
 
 <!-- ACKNOWLEDGMENTS -->
@@ -229,5 +223,3 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-
-# mydonate2
