@@ -86,7 +86,7 @@ To run this project locally, follow these steps.
 ```sh
 git clone https://github.com/mendsalbert/mydonateiom
 
-cd sympodiumCoin
+cd mydonteiom
 
 # install using NPM or Yarn
 npm install
