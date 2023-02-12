@@ -84,7 +84,7 @@ To run this project locally, follow these steps.
 1. Clone the project locally, change into the directory, and install the dependencies:
 
 ```sh
-git clone https://github.com/mendsalbert/mydonate2
+git clone https://github.com/mendsalbert/mydonateiom
 
 cd sympodiumCoin
 
@@ -116,7 +116,7 @@ npm run dev
 
 ### Configuration
 
-The chain ID should be 80001. If you have a localhost rpc set up, you may need to overwrite it.
+The chain ID should be 5001. If you have a localhost rpc set up, you may need to overwrite it.
 
 To deploy to Polygon test or main networks, update the configurations located in **hardhat.config.js** to use a private key and, optionally, deploy to a private RPC like Infura.
 
