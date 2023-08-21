@@ -10,7 +10,7 @@ const FAQ = () => {
         >
           <summary class="flex items-center justify-between cursor-pointer">
             <h5 class="text-lg font-medium dark:text-gray-100 text-gray-900">
-              How Does MyDonate Work?
+              How Does GlobeSave Work?
             </h5>
 
             <span class="flex-shrink-0 ml-1.5 p-1.5 text-gray-900 bg-white rounded-full sm:p-3">
@@ -34,7 +34,7 @@ const FAQ = () => {
             with regards to your fundraising and provide target funds. You will
             have access to a user dashboard to track your fundraising. You can
             also pin donations by specifying the pin donation duration to reach
-            out to a wider audience of the community. MyDonate makes it
+            out to a wider audience of the community. Globesave makes it
             incredibly easy to raise funds to support causes of societal
             concern.
           </p>
@@ -65,7 +65,7 @@ const FAQ = () => {
           <p class="mt-4 leading-relaxed  dark:text-gray-300 text-gray-700">
             People raise funds for almost everything, including Environment,
             Education, Famine, Health, Community, War, Disaster and Others.
-            We’re always amazed at the ways people use MyDonate to raise funds
+            We’re always amazed at the ways people use Globesave to raise funds
             to support causes of societal concern.
           </p>
         </details>

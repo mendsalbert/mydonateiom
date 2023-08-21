@@ -13,7 +13,7 @@ function Footer() {
             </div>
 
             <p class="max-w-md mx-auto mt-6 leading-relaxed text-left dark:text-white text-gray-500 sm:max-w-xs sm:mx-0 sm:text-left">
-              With MyDonate, all individuals and organisations have to their
+              With Globesave, all individuals and organisations have to their
               disposer tools they need to raise funds and share their cause far
               and wide and make use of the power of generosity through our usage
               of blockchain technology.
@@ -263,7 +263,7 @@ function Footer() {
                     </svg>
 
                     <span class="text-gray-700 dark:text-gray-100">
-                      mydonateio@gmail.com
+                      globesave@gmail.com
                     </span>
                   </a>
                 </li>
